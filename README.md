@@ -1,3 +1,4 @@
+Live Url => https://platter-task.netlify.app
 # Platter Website
 
 Next.js website with Tailwind CSS and Swiper.js slider.
